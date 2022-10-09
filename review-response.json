@@ -1,0 +1,299 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      {
+        "long_name": "Ujire",
+        "short_name": "Ujire",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Dakshina Kannada",
+        "short_name": "Dakshina Kannada",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Karnataka",
+        "short_name": "KA",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "India",
+        "short_name": "IN",
+        "types": ["country", "political"]
+      },
+      {
+        "long_name": "574240",
+        "short_name": "574240",
+        "types": ["postal_code"]
+      }
+    ],
+    "adr_address": "<span class=\"locality\">Ujire</span>, <span class=\"region\">Karnataka</span> <span class=\"postal-code\">574240</span>, <span class=\"country-name\">India</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "dine_in": true,
+    "formatted_address": "Ujire, Karnataka 574240, India",
+    "geometry": {
+      "location": {
+        "lat": 12.9958384,
+        "lng": 75.3291491
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.99711358029151,
+          "lng": 75.3304780802915
+        },
+        "southwest": {
+          "lat": 12.9944156197085,
+          "lng": 75.32778011970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Hotel GURUPRASAD",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 8:00 PM",
+        "Tuesday: 6:00 AM – 8:00 PM",
+        "Wednesday: 6:00 AM – 8:00 PM",
+        "Thursday: 6:00 AM – 8:00 PM",
+        "Friday: 6:00 AM – 8:00 PM",
+        "Saturday: 6:00 AM – 8:00 PM",
+        "Sunday: 6:00 AM – 8:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100349982341522168328\">Shivakiran Holla</a>"
+        ],
+        "photo_reference": "AcYSjRgLojt3NaD4bt1D2314IsTeWbMh3wuPKKl10IiOM9WVRh7km5q-aDpDlLwhkZnTTBggUdy5eR94JNE_5QYIAJMHguBOOS8_8h-qaNBiL18doR11roaMIzmTOn-Y03IrohDtBADeTeZNrc-96JWf-kbOHgvweWigBuHG-lBlAddrTBaN",
+        "width": 3000
+      },
+      {
+        "height": 2604,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101109258941337353837\">Hotel GURUPRASAD</a>"
+        ],
+        "photo_reference": "AcYSjRjJdv1vmuBpkLMpPV3dEyDNbA32lwbTsxW-PZBIOE1O_5vatjVCt8JcSh8a6kNaBSrhw_W6OZxLfG1YOq_jW04qJAmZlPleZtjlafmvPrwe_Gqw79JxtDmR9LhceUBjLzQxZv1aNCoCo5lmFu_Zk_Edln7DvizbjfQJS2yngsnMmzrw",
+        "width": 4624
+      },
+      {
+        "height": 2604,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101109258941337353837\">Hotel GURUPRASAD</a>"
+        ],
+        "photo_reference": "AcYSjRgA0xAglWK43Vp--zg7eXevXCdA2vBFHTrA0J28dfscBJ8x6vX-myeA_7Tc260jsv_bghD8HCX1_41VvpWgG4jx00pnPhn1jzrC0LkXWLRsKzB1-4SQNSRnRTYrRohAiogiYXScYKCjLOxglJhRm2qPL9aGeA8lfcCP3_MGgeQWw-Zd",
+        "width": 4624
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101109258941337353837\">Hotel GURUPRASAD</a>"
+        ],
+        "photo_reference": "AcYSjRjS939av_18TMq5Y_zjebPQIsqb5omElSA9uK59EFLwV80GmeXVuewPU7Hhak_TuVgzPHpjRYPBk2lcZI55zYUrVuhdv4LOrpNTOv74LE4fTyoASdHwqUUywqExidfOBWRxWJOeRJIw59EK3FKn7c2BOVNdSTQ7TZXNuPjgYOw4m4f-",
+        "width": 2604
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101109258941337353837\">Hotel GURUPRASAD</a>"
+        ],
+        "photo_reference": "AcYSjRhxcnMx3FwzCTdB-AGjow2d1Ce-tWHCUUVtRn9mPSZw61PtyuMl_bGXcCKFlWrJoXE7s1PrNIhgOsy4BDZo_zmcaOIfKTBPQriCt9z_0cegMlEU_3a48w4XB1PI5NSwItzW17-1uuHbm_NCXAyW8xjPLAzlYLpvh44iX2hUoqFfscqS",
+        "width": 2604
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101109258941337353837\">Hotel GURUPRASAD</a>"
+        ],
+        "photo_reference": "AcYSjRj0lgFQGxl-P_AVnq2svKjNV_mw0uyJvY-hoYyQ_TVLIZhRm5v5b8rcemaM6wjHXbAVhMXBvk-ke_zFZRqhiezS_4OWp9QyQgQA76q7uzO5dt4xdYGZ_RuiI5lkAIW9ebo10QG5Q5rSclsxSYx-HfgPesIGeSORvp3WSpePMJAeN70q",
+        "width": 2604
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101109258941337353837\">Hotel GURUPRASAD</a>"
+        ],
+        "photo_reference": "AcYSjRhLt30ZLMP14PIma13tJXYZr83pAaF6PNuCohwPXcZGF7yhSRjZOXdXhEIArlMbkRXbfsiztF8FqEnhx_cGR3h2ahGXFkomXzSJBD4E7eTEQBNhTdfuycTU8judQhUSL9NmiYRqaXR72seSHlnCj5GsY3VVKARbLD5rfJNCt1YwlwC4",
+        "width": 2604
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101109258941337353837\">Hotel GURUPRASAD</a>"
+        ],
+        "photo_reference": "AcYSjRiH_0Vst3xQxcFndauiLyRYOJMm7b0qcVO_JDQBtRqizAUNzWnyXj73_BNR7UwIJ7D16jWlW5SCSEmvdmS42DYt259kXqMe7k_n8M7cFB86h4WHBfTPKlRx4OikmeOyWsL0N-fmdyIuzyFYkbJWYnbxPerHZWbMB8vEwil7I2ClorVK",
+        "width": 2604
+      },
+      {
+        "height": 5632,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115916068457797036131\">Sanjay J Kamath</a>"
+        ],
+        "photo_reference": "AcYSjRjGq3t152g2WzTPhtHqDY94jHP4hD8EF_nQWgsrZ0aqSGH_PPbCfs5fIM8E0ha-F_vDJuvVIw1quCzvqoOV8m1sSKjFs3j4uCyvt7u19XtJYTLe1SaAuYJL_LqIvstJun7xQe-_motA94wHpn0Nh5fnMNwtupeard_Xrk2ZBwVb-ySg",
+        "width": 4224
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101109258941337353837\">Hotel GURUPRASAD</a>"
+        ],
+        "photo_reference": "AcYSjRiQsPGKsOzd-p8lX22PoAuL94LkY2tKWn1zANBqwQKzy2clWe4d-56aZopy99JUuM9PZbkWhQMrr73uQyXN7ENFnrYx_yvDhKXWue8AjUk1cUodouWZXwsMaGgGOR0AcGFjLzoK1ETCPxVBcCt2vkYr1lPber2Ba7k-h4AX4nsML2Gf",
+        "width": 2604
+      }
+    ],
+    "place_id": "ChIJ0fA_NSW2pDsRrKtvt6ZQd0c",
+    "plus_code": {
+      "compound_code": "X8WH+8M Ujire, Karnataka, India",
+      "global_code": "7J4QX8WH+8M"
+    },
+    "rating": 4,
+    "reference": "ChIJ0fA_NSW2pDsRrKtvt6ZQd0c",
+    "reviews": [
+      {
+        "author_name": "Prakash Md",
+        "author_url": "https://www.google.com/maps/contrib/102449743532023712387/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ACNPEu8jiVsvPI7MHMKW_WUK_pyu96dsycMimK9a56kv9Bk=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "A good hotel for vegetarians near Bus Stand, OPP: Ujire Gate on NH73.\n\nVarieties of Breakfast in the Morning; South Indian Meals in the noon & night.",
+        "time": 1567776828,
+        "translated": false
+      },
+      {
+        "author_name": "Hareesh Prabhu",
+        "author_url": "https://www.google.com/maps/contrib/111588718623771069306/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ALm5wu0mCJyd3sjh77uo9mA2jB9M9XsKDmNyNPWtdrXV=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "4 months ago",
+        "text": "Absolute third class hotel run by an arrogant and irrational owner who thinks customers are beggers. Idli was cold, Set dosa was black (it was charred and the owner says, adjust Maadi). I wonder how on earth this place is rated so high....\nCan't rate as zero since Google doesn't allow it",
+        "time": 1654519242,
+        "translated": false
+      },
+      {
+        "author_name": "Shivakiran Holla",
+        "author_url": "https://www.google.com/maps/contrib/100349982341522168328/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ACNPEu-Fsc_X51OTuJSOFdTG-dEpv9uaDdKCRtlq9PfNvh4=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "4 months ago",
+        "text": "Great food is your traveling early morning",
+        "time": 1653976834,
+        "translated": false
+      },
+      {
+        "author_name": "Suresh Anand",
+        "author_url": "https://www.google.com/maps/contrib/117866531534164440377/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ACNPEu--Wc2BUVuKL6YzaoUKEhh2hGGFk3BU1vO6QI4UYhg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Good tasty food. Pure veg. Has car parking for 3-4 cars in front of the hotel. Good and fast  service.",
+        "time": 1515344199,
+        "translated": false
+      },
+      {
+        "author_name": "Sachin Koparde",
+        "author_url": "https://www.google.com/maps/contrib/116838527646794439420/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ACNPEu9RhoQ9qRzS63tXoI2daDasX-vK1bKdoX7w5ENRBdA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "3 years ago",
+        "text": "You will get good for reasonable price. The special Mangaluru Buns are available here. You will get good food. When you down come from the Charmadi Ghats and if you are hungry visit this hotel which very near to the Ujire bus stop. If you want to travel towards Chikkamagaluru and wanna take some food this is the right hotel you get. The suppliers attitude may feel some what rigorous and hard. They will take much time to serve you the food. But overall you will get a good food here.",
+        "time": 1555504454,
+        "translated": false
+      }
+    ],
+    "takeout": true,
+    "types": ["restaurant", "food", "point_of_interest", "establishment"],
+    "url": "https://maps.google.com/?cid=5149673375893793708",
+    "user_ratings_total": 17,
+    "utc_offset": 330,
+    "vicinity": "Ujire"
+  },
+  "status": "OK"
+}
